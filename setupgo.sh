@@ -1,8 +1,8 @@
 # !/bin/bash
 
-# Describe: set up the Golang develop environment automatically!
-# Author:   jusonalien
-# Email:    jusonalien@gmail.com
+# Description: set up the Golang develop environment automatically!
+# Author:      jusonalien
+# Email:       jusonalien@gmail.com
 
 wget https://storage.googleapis.com/golang/go1.5.3.linux-amd64.tar.gz
 
