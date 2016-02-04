@@ -4,7 +4,7 @@
 # Author:   jusonalien
 # Email:    jusonalien@gmail.com
 
-# wget https://storage.googleapis.com/golang/go1.5.3.linux-amd64.tar.gz
+wget https://storage.googleapis.com/golang/go1.5.3.linux-amd64.tar.gz
 
 tar -zxvf go1.5.3.linux-amd64.tar.gz
 
